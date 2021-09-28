@@ -2,7 +2,7 @@
  My application to help with encoding and converting videos to gif to use on twitter with ffmpeg.
 
 ## Installation
-* Install [FFmpeg](http://ffmpeg.zeranoe.com/builds/) for Windows.
+* Install [FFmpeg](https://ffmpeg.org/download.html) for Windows.
 * Download and install [video2gif](https://github.com/NabiKAZ/video2gif).
 * Download and unzip the release.
 ## How to use
